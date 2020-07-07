@@ -1,0 +1,30 @@
+header {
+    margin: 30px;
+    width: 90vw;
+}
+.logo {
+    width: 200px;
+    height: 200px;
+}
+.title {
+    text-transform: uppercase;
+    background-color: #1E4F8A;
+    color: white;
+    height: min-content;
+    font-family: 'Playfair Display', serif;
+
+}
+.navbar-collapse {
+    justify-content: center;
+}
+.nav {
+
+    border-top: 2px solid rgba(30, 79, 138, 0.8);
+    border-bottom: 2px solid rgba(30, 79, 138, 0.8);
+}
+.nav-item>.nav-link {
+    color: #BFB000;
+    font-weight: 500;
+    font-size: large;
+    font-family: 'Playfair Display', serif;
+}
